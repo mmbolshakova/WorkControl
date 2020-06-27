@@ -1,2 +1,8 @@
 # WorkControl
 IOS app for control work process (like Kanban board)
+
+TeamLeader Board
+![Image alt](https://github.com/mmbolshakova/WorkControl/raw/master/tm.png)
+
+Developer Board
+![Image alt](https://github.com/mmbolshakova/WorkControl/raw/master/dev.png)
